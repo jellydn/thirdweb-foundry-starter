@@ -1,0 +1,10 @@
+{
+  "name": "thirdweb_foundry_starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Huynh Duc Dung <dunghd.it@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@thirdweb-dev/contracts": "2.3.7"
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"cSpell.words": [
+		"thirdweb"
+	],
+	"solidity.packageDefaultDependenciesContractsDirectory": "src",
+	"solidity.packageDefaultDependenciesDirectory": "lib"
+}

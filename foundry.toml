@@ -1,6 +1,11 @@
 [default]
+auto_detect_solc = true
 src = 'src'
 out = 'out'
-libs = ['lib']
+libs = ['lib', 'node_modules']
+gas_reports = ["*"]
+remappings = [
+    '@thirdweb-dev/=node_modules/@thirdweb-dev/',
+]
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
