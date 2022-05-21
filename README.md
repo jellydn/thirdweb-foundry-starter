@@ -29,6 +29,12 @@ make
 make build
 ```
 
+## Static Analyzer
+
+```sh
+make analyzers
+```
+
 ## Deploy Contract
 
 Welcome to the new thirdweb contract deployment flow.
