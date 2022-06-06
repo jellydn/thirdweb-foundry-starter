@@ -4,6 +4,8 @@
 
 > Third Web Foundry Stater Template
 
+[![Foundry + ThirdWeb CLI](https://img.youtube.com/vi/ApSqlVBsRJ4/0.jpg)](https://www.youtube.com/watch?v=ApSqlVBsRJ4)
+
 ## Prerequisites
 
 - [Foundry - Smart contract development toolchain](https://book.getfoundry.sh/getting-started/installation.html)
