@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@thirdweb-dev/contracts@3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@thirdweb-dev/contracts/-/contracts-3.1.0.tgz#80b6fe72288d37017840e82cdf61cb4128debac4"
-  integrity sha512-3cFsxpD4W1tSFs8hD4hK07W7lYHm4ZAvGE8dKDrHZdd3g45dQwMnvITG5bnqJAmJYeIFvNQiZz+QVRwdvbX4+A==
+"@thirdweb-dev/contracts@3.1.1":
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/@thirdweb-dev/contracts/-/contracts-3.1.1.tgz#8b7185cef4769312a8dc4c8c31ef455cba96fbb0"
+  integrity sha512-duOsMhql4KZYaOcM8fzIzGBSEt1+0vftStYX6lc6HgHXMlcn6I/JQVRwVtl3/HWkQI7Ror0wBUJEyGOVdOlr9g==
