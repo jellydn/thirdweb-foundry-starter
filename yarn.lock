@@ -312,10 +312,10 @@
   resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.3.3.tgz#ff6ee919fc2a1abaf72b22814bfb72ed129ec137"
   integrity sha512-tDBopO1c98Yk7Cv/PZlHqrvtVjlgK5R4J6jxLwoO7qxK4xqOiZG+zSkIvGFpPZ0ikc3QOED3plgdqjgNTnBc7g==
 
-"@thirdweb-dev/contracts@3.9.2":
-  version "3.9.2"
-  resolved "https://registry.yarnpkg.com/@thirdweb-dev/contracts/-/contracts-3.9.2.tgz#ce09b7de88348fcb3ec8b5ffa2016edafae31462"
-  integrity sha512-UGbGgHLLC0Fl9c3agGh2eame2ZzurJyw/SNlutBkTebNA0ptpLmE+PqD5hxdcciQ3NFgdFqJmWtXWjFN8S1Fig==
+"@thirdweb-dev/contracts@3.9.4":
+  version "3.9.4"
+  resolved "https://registry.yarnpkg.com/@thirdweb-dev/contracts/-/contracts-3.9.4.tgz#5f9396c64de273df6026a727bede7a59482c7158"
+  integrity sha512-7zw7yg6kn/JsGLH7starKbxA2RowKSA8zWQ5aU+gABucLevBMTY78wKQY7Tvh+GNQTiUscsXVydg5J6YceDYhA==
   dependencies:
     "@chainlink/contracts" "^0.6.1"
     "@openzeppelin/contracts" "4.7.3"
