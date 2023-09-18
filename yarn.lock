@@ -324,9 +324,9 @@
     erc721a-upgradeable "^3.3.0"
 
 "@thirdweb-dev/dynamic-contracts@^1.1.2":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@thirdweb-dev/dynamic-contracts/-/dynamic-contracts-1.2.0.tgz#179a5b60e9f3215d2fd8216d8834cf22560511dd"
-  integrity sha512-pxX3PW7oLaYV6z70QKa9H/C5Wsyany5uhV01t+6DFk5+PJaFJ41ABhYQDD0X45S1Lw5iDf6xxLFnlymJGKOfag==
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@thirdweb-dev/dynamic-contracts/-/dynamic-contracts-1.2.2.tgz#a86377108c0b160bcd344063a2ac910348167e31"
+  integrity sha512-0YqcaQ0NLlHNo+/tJf5xQXxor3+0C8nLokVfPT3OFe9OcPmLfSGs7xS7dZdQVwor75CqmNRse29UReU+hd4atw==
 
 assertion-error@^1.1.0:
   version "1.1.0"
