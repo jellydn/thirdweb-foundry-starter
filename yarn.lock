@@ -12,15 +12,16 @@
   resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.9.6.tgz#2a880a24eb19b4f8b25adc2a5095f2aa27f39677"
   integrity sha512-xSmezSupL+y9VkHZJGDoCBpmnB2ogM13ccaYDWqJTfS3dbuHkgjuwDFUmaFauBCboQMGB/S5UqUl2y54X99BmA==
 
-"@thirdweb-dev/contracts@3.14.0":
-  version "3.14.0"
-  resolved "https://registry.yarnpkg.com/@thirdweb-dev/contracts/-/contracts-3.14.0.tgz#0f16b5a6744a023fecf3279648a3f2ebeb8d70ba"
-  integrity sha512-4LxNj/RgcbVlHESUx/FTKA2AXb/LhWqSjUgmM4glBW6fyZysUKFZUuL+zvZwxY+zbVpMdPqDjMPF0mET2LF25Q==
+"@thirdweb-dev/contracts@3.15.0":
+  version "3.15.0"
+  resolved "https://registry.yarnpkg.com/@thirdweb-dev/contracts/-/contracts-3.15.0.tgz#2d8dd4f6f2ec93dc22ae5b60240379bcc2f7d37a"
+  integrity sha512-sIXPy6zNqW9K9h8xgCnsRQVrqmmMdxoDqut4eAZj1CJzMax5TyrNBoSYCfAX0et8KApvBeCVeJQhUHSWpBNIVw==
   dependencies:
     "@openzeppelin/contracts" "^4.9.3"
     "@openzeppelin/contracts-upgradeable" "^4.9.3"
     "@thirdweb-dev/dynamic-contracts" "^1.2.4"
     erc721a-upgradeable "^3.3.0"
+    solady "0.0.180"
 
 "@thirdweb-dev/dynamic-contracts@^1.2.4":
   version "1.2.5"
@@ -33,3 +34,8 @@ erc721a-upgradeable@^3.3.0:
   integrity sha512-ILE0SjKuvhx+PABG0A/41QUp0MFiYmzrgo71htQ0Ov6JfDOmgUzGxDW8gZuYfKrdlYjNwSAqMpUFWBbyW3sWBA==
   dependencies:
     "@openzeppelin/contracts-upgradeable" "^4.4.2"
+
+solady@0.0.180:
+  version "0.0.180"
+  resolved "https://registry.yarnpkg.com/solady/-/solady-0.0.180.tgz#d806c84a0bf8b6e3d85a8fb0978980de086ff59e"
+  integrity sha512-9QVCyMph+wk78Aq/GxtDAQg7dvNoVWx2dS2Zwf11XlwFKDZ+YJG2lrQsK9NEIth9NOebwjBXAYk4itdwOOE4aw==
